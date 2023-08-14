@@ -5,7 +5,7 @@ document.getElementById("submit-button").addEventListener('click', function () {
     // console.log(emailInputString.value);
     const passwordInputString = document.getElementById("password-input");
     // console.log(passwordInputString.value);
-    if (emailInputString.value == "abc@gmail.com" && passwordInputString.value == 12345) {
+    if (emailInputString.value == "rojaduan@gmail.com" && passwordInputString.value == 1306) {
         window.location.href = "./bank.html";
     }
     else {
